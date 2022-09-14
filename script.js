@@ -94,8 +94,3 @@ const saveUserForm=(event)=>{
 }
 userform.addEventListener("submit",saveUserForm);
 displayEntries();
-
-
-
-
-
